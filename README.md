@@ -1,0 +1,2 @@
+# python
+AI_assignments
